@@ -8,3 +8,8 @@ builds:
     goarch:
       - amd64
       - arm64
+nfpms:
+- maintainer: jonnyan404
+  description: Sample project.
+  homepage: https://www.mrdoc.fun
+  license: MIT
