@@ -41,6 +41,7 @@ jobs:
       - name: Build ui
         run: |
           cd web
+          npm i @vue/cli-service
           npm run build
       - name: Build
         run: |
