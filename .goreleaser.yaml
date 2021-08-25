@@ -13,3 +13,7 @@ nfpms:
   description: Sample project.
   homepage: https://www.mrdoc.fun
   license: MIT
+  formats:
+  - deb
+  - rpm
+  - apk
